@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/SheepShaver-AppImage-Enhanced)](https://github.com/pkgforge-dev/SheepShaver-AppImage-Enhanced/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/Link4Electronics/SheepShaver-AppImage-Enhanced/blob/main/AppDir/sheepshaver.png" width="128" />
 </p>
 
 
